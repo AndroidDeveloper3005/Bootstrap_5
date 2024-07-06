@@ -1,15 +1,16 @@
 
-
 .row{
     margin-bottom: 20px;
-
+    height: 200px;
+    background: #fab1a0;
 }
 
 
-.row div div{
+.row div {
 
-    background:#82ccdd;
+    background:#d63031;
     border:5px solid #8a3d62;
+    color: #fff;
     padding: 20px;
     text-align: center;
     margin-bottom: 20px;
